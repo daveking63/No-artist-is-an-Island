@@ -5,4 +5,5 @@ In preparation for their 2013-4 exhibit -- <i>Inventing Modern Abstraction (1910
 
 *Inventing Abstraction (MoMA)*"
 
+![alt text](bioimage-v1.png "Inventing Abstraction")
 
