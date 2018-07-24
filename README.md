@@ -16,7 +16,7 @@ While both of these graphs involve relatively few artists and movements, there a
 *Visualization of Wikipedia Links < 75 years - Doron Goldfarb*
 
 ![alt text](wikiart-history.png "Visualizing Wikiart History")
- *mod
+
 <h3>Analyzing Influences among Artists of Modern Art</H3>
 
 This project and analysis follows in the footsteps of these earlier exhibitions and research works and focuses on using social network analysis and visualization to "interactively" understand social influences among artists of the modern era. It is smaller in scope - time and sample size -- than Goldfarb's work and relies on data taken from theArtstory.Org website.  The Art Story is "an educational non-profit organization founded in 2009 to demystify *Modern Art* and further art appreciation." In their terms "Modern art represents an evolving set of ideas among a number of painters, sculptors, writers, and performers who - both individually and collectively - sought new approaches to art making. Although modern art began, in retrospect, around 1850 with the arrival of Realism, approaches and styles of art were defined and redefined throughout the 20th century."smaller in scope - time and sample size -- 
@@ -25,4 +25,4 @@ Currently, the site includes details, documentation and commentary for 96 Modern
 
 *Example of an Influence-Connections Chart from theArtStory.org*
 
-
+![alt text](example of influence and connections.png "Influence and Connections Chart")
