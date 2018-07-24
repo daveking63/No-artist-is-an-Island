@@ -1,6 +1,8 @@
 # No-artist-is-an-Island
 Using network analysis to understand the social influences among the artists central to modern and contemporary art movements and styles -- who influenced them and who they influenced.
 
+<H3>Introduction</H3>
+
 In preparation for their 2013-4 exhibit -- <i>Inventing Modern Abstraction (1910-1925)</i> -- the Museum of Modern Art (MoMA) "analyzed the social and artistic relationships among key figures and modern artists in order to develop an interactive network diagram of the founders and pioneers of modern abstraction." Towards this end they provided an <a href="https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?page=connections">online interactive version</a> that was available for public use. A screenshot from the online version is shown below:
 
 *Inventing Abstraction (MoMA)*"
