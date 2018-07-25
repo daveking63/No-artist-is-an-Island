@@ -15,7 +15,7 @@ While both of these graphs involve relatively few artists and movements, there a
 
 *Visualization of Wikipedia Links < 75 years - Doron Goldfarb*
 
-![alt text](wikiart-history.png "Visualizing Wikiart History")
+![alt text](wikiart-history-resized.png "Visualizing Wikiart History")
 
 <h3>Analyzing Influences among Artists of Modern Art</H3>
 
