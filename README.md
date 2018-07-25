@@ -17,7 +17,7 @@ While both of these graphs involve relatively few artists and movements, there a
 
 ![alt text](wikiart-history-resized.png "Visualizing Wikiart History")
 
-<h3>Analyzing Influences among Artists of Modern Art</H3>
+<h3>Analyzing Influences among <i>Modern</i> Artists</H3>
 
 This project and analysis follows in the footsteps of these earlier exhibitions and research works and focuses on using social network analysis and visualization to "interactively" understand social influences among artists of the modern era. It is smaller in scope - time and sample size - than Goldfarb's work and relies on data scraped from <a href='https://theArtstory.Org'>The Art Story</a> website.  
 
@@ -27,6 +27,6 @@ As a bit of backdrop, The Art Story is "an educational non-profit organization f
 
 ![alt text](example_of_influence_and_connections-resized-2.png "Influence and Connections Chart")
 
-<H3>Analysis and Visualization of the Social Network of *Modern Artists*</H3>
+<H3>Analysis and Visualization of the Social Network of <i>Modern</i> Artists</H3>
 
 The steps, data, and code used in collecting and analyzing the data are detailed in the **_SNA Analysis Folder_** in this repository.  The end result is not only an interactive social network graph (similar to the one provided for the *Inventing Modern Abstraction* exhibit) but also a general analysis of the key structural features of the graph (e.g. measures of betweeness, identification of clusters, etc.) and an understanding of the evolution of these features over time.  
