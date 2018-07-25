@@ -25,4 +25,4 @@ Currently, the site includes details, documentation and commentary for 96 Modern
 
 *Example of an Influence-Connections Chart from theArtStory.org*
 
-![alt text](example_of_influence_and_connections.png "Influence and Connections Chart")
+![alt text](example_of_influence_and_connections-resized.png "Influence and Connections Chart")
