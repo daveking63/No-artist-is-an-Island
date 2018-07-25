@@ -1,0 +1,1979 @@
+####
+0-Abstract Expressionism
+1-0
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-abstract-expressionism.htm
+3-1943
+4-1969
+5-Jackson Pollock
+5-Willem de Kooning
+5-Mark Rothko
+5-Clyfford Still
+5-Franz Kline
+5-Hans Hofmann
+5-Robert Motherwell
+5-Barnett Newman
+6-artist-pollock-jackson.htm
+6-artist-de-kooning-willem.htm
+6-artist-rothko-mark.htm
+6-artist-still-clyfford.htm
+6-artist-kline-franz.htm
+6-artist-hofmann-hans.htm
+6-artist-motherwell-robert.htm
+6-artist-newman-barnett.htm
+####
+0-The Aesthetic
+1-1
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-aesthetic-art.htm
+3-1860
+4-1900
+5-James Whistler
+5-Dante Gabriel Rossetti
+5-Christopher Dresser
+5-Edward Burne-Jones
+5-William De Morgan
+5-Albert Moore
+5-Frederic Leighton
+5-George Aitchison
+6-artist-whistler-james-abbott-mcneill.htm
+6-https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+6-https://en.wikipedia.org/wiki/Christopher_Dresser
+6-https://en.wikipedia.org/wiki/Edward_Burne-Jones
+6-https://en.wikipedia.org/wiki/William_De_Morgan
+6-https://en.wikipedia.org/wiki/Albert_Joseph_Moore
+6-https://en.wikipedia.org/wiki/Frederic_Leighton
+6-https://en.wikipedia.org/wiki/George_Aitchison
+####
+0-Art Deco
+1-2
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-art-deco.htm
+3-1900
+4-1945
+5-No Key Artists
+6-No Key HREFs
+####
+0-Art Nouveau
+1-3
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-art-nouveau.htm
+3-1890
+4-1905
+5-Gustav Klimt
+5-Arthur Heygate Mackmurdo
+5-Arthur Liberty
+5-Alphonse Mucha
+5-Josef Hoffmann
+5-Otto Wagner
+5-Antoni Gaudi
+5-Louis Comfort Tiffany
+5-Aubrey Beardsley
+5-Koloman Moser
+5-Joseph Maria Olbrich
+5-Charles Rennie Mackintosh
+5-Rene Lalique
+5-Hector Guimard
+5-Victor Horta
+5-Henry van de Velde
+5-Emile Galle
+6-artist-klimt-gustav.htm
+6-http://en.wikipedia.org/wiki/Arthur_Heygate_Mackmurdo
+6-http://en.wikipedia.org/wiki/Arthur_Lasenby_Liberty
+6-artist-mucha-alphonse.htm
+6-http://en.wikipedia.org/wiki/Josef_Hoffmann
+6-http://en.wikipedia.org/wiki/Otto_Wagner
+6-artist-gaudi-antoni.htm
+6-http://en.wikipedia.org/wiki/Louis_Comfort_Tiffany
+6-artist-beardsley-aubrey.htm
+6-http://en.wikipedia.org/wiki/Koloman_Moser
+6-http://en.wikipedia.org/wiki/Joseph_Maria_Olbrich
+6-http://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh
+6-http://en.wikipedia.org/wiki/Rene_Lalique
+6-artist-guimard-hector.htm
+6-artist-horta-victor.htm
+6-https://en.wikipedia.org/wiki/Henry_van_de_Velde
+6-http://en.wikipedia.org/wiki/Emile_Galle
+####
+0-Arte Povera
+1-4
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-arte-povera.htm
+3-1962
+4-1972
+5-Michelangelo Pistoletto
+5-Mario Merz
+5-Giovanni Anselmo
+5-Alighiero Boetti
+5-Luciano Fabro
+5-Piero Gilardi
+5-Jannis Kounellis
+5-Marisa Merz
+5-Giulio Paolini
+5-Pino Pascali
+5-Giuseppe Penone
+5-Emilio Prini
+5-Gilberto Zorio
+6-artist-pistoletto-michelangelo.htm
+6-http://en.wikipedia.org/wiki/Mario_Merz
+6-http://www.tate.org.uk/whats-on/tate-modern/exhibition/zero-infinity-arte-povera-1962-1972/zero-infinity-atre-povera-1962
+6-http://en.wikipedia.org/wiki/Alighiero_Boetti
+6-http://en.wikipedia.org/wiki/Luciano_Fabro
+6-http://www.tate.org.uk/whats-on/tate-modern/exhibition/zero-infinity-arte-povera-1962-1972/zero-infinity-atre-povera-1962-3
+6-http://en.wikipedia.org/wiki/Jannis_Kounellis
+6-http://en.wikipedia.org/wiki/Marisa_Merz
+6-http://en.wikipedia.org/wiki/Giulio_Paolini
+6-http://en.wikipedia.org/wiki/Giulio_Paolini
+6-http://en.wikipedia.org/wiki/Giuseppe_Penone
+6-http://www.tate.org.uk/whats-on/tate-modern/exhibition/zero-infinity-arte-povera-1962-1972/zero-infinity-atre-povera-196-11
+6-http://www.moma.org/collection/artist.php?artist_id=6583
+####
+0-The Arts & Crafts
+1-5
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-arts-and-crafts.htm
+3-1860
+4-1920
+5-No Key Artists
+6-No Key HREFs
+####
+0-Ashcan School
+1-6
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-ashcan-school.htm
+3-1900
+4-1915
+5-Robert Henri
+5-William Glackens
+5-George Luks
+5-George Bellows
+5-Everett Shinn
+5-John Sloan
+6-http://en.wikipedia.org/wiki/Robert_Henri
+6-artist-glackens-william.htm
+6-http://en.m.wikipedia.org/wiki/George_Luks
+6-http://en.m.wikipedia.org/wiki/George_Bellows
+6-http://en.m.wikipedia.org/wiki/Everett_Shinn
+6-http://en.wikipedia.org/wiki/John_Sloan
+####
+0-The Barbizon School
+1-7
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-barbizon-school.htm
+3-1830
+4-1870
+5-Jean-Baptiste-Camille Corot
+5-Jean-Francois Millet
+5-Theodore Rousseau
+5-Charles-Francois Daubigny
+6-artist-corot-jean-baptiste-camille.htm
+6-artist-millet-jean-francois.htm
+6-artist-rousseau-theodore.htm
+6-http://en.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Daubigny
+####
+0-Bauhaus
+1-8
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-bauhaus.htm
+3-1919
+4-1933
+5-Walter Gropius
+5-Laszlo Moholy-Nagy
+5-Paul Klee
+5-Wassily Kandinsky
+5-Josef Albers
+5-Marcel Breuer
+5-Lyonel Feininger
+5-Anni Albers
+5-Gerhard Marcks
+5-Naum Gabo
+5-Oskar Schlemmer
+5-Joost Schmidt
+5-Georg Muche
+5-Johannes Itten
+6-http://en.wikipedia.org/wiki/Walter_Gropius
+6-artist-moholy-nagy-laszlo.htm
+6-artist-klee-paul.htm
+6-artist-kandinsky-wassily.htm
+6-artist-albers-josef.htm
+6-artist-breuer-marcel.htm
+6-artist-feininger-lyonel.htm
+6-artist-albers-anni.htm
+6-http://en.wikipedia.org/wiki/Gerhard_Marcks
+6-artist-gabo-naum.htm
+6-http://en.wikipedia.org/wiki/Oskar_Schlemmer
+6-http://en.wikipedia.org/wiki/Joost_Schmidt
+6-http://en.wikipedia.org/wiki/Georg_Muche
+6-artist-itten-johannes.htm
+####
+0-Bay Area Figurative
+1-9
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-bay-area-figurative-movement.htm
+3-1950
+4-1970
+5-David Park
+5-Richard Diebenkorn
+6-http://en.wikipedia.org/wiki/David_Park
+6-artist-diebenkorn-richard.htm
+####
+0-Black Mountain College
+1-10
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-black-mountain-college.htm
+3-1933
+4-1957
+5-Josef Albers
+5-Anni Albers
+5-Elaine de Kooning
+5-Willem de Kooning
+5-Robert Rauschenberg
+5-Cy Twombly
+5-Kenneth Noland
+6-artist-albers-josef.htm
+6-artist-albers-anni.htm
+6-artist-de-kooning-elaine.htm
+6-artist-de-kooning-willem.htm
+6-artist-rauschenberg-robert.htm
+6-artist-twombly-cy.htm
+6-artist-noland-kenneth.htm
+####
+0-The Bloomsbury Artists
+1-11
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-bloomsbury-group-artists.htm
+3-1909
+4-1940
+5-Vanessa Bell
+5-Duncan Grant
+5-Roger Fry
+5-Wyndham Lewis
+6-artist-bell-vanessa.htm
+6-https://en.wikipedia.org/wiki/Duncan_Grant
+6-http://en.wikipedia.org/wiki/Roger_Fry
+6-http://en.wikipedia.org/wiki/Wyndham_Lewis
+####
+0-Body Art
+1-12
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-body-art.htm
+3-1961
+4-1980
+5-Yves Klein
+5-Carolee Schneemann
+5-Jim Dine
+5-Dennis Oppenheim
+5-Chris Burden
+5-Yayoi Kusama
+5-Hannah Wilke
+5-VALIE EXPORT
+5-Zhang Huan
+5-Ewa Partum
+5-Marina Abramovic
+5-Ana Mendieta
+5-Rebecca Horn
+5-Gina Pane
+6-artist-klein-yves.htm
+6-artist-schneemann-carolee.htm
+6-artist-dine-jim.htm
+6-http://en.wikipedia.org/wiki/Dennis_Oppenheim
+6-artist-burden-chris.htm
+6-artist-kusama-yayoi.htm
+6-artist-wilke-hannah.htm
+6-artist-export-valie.htm
+6-artist-zhang-huan.htm
+6-https://en.wikipedia.org/wiki/Ewa_Partum
+6-artist-abramovic-marina.htm
+6-artist-mendieta-ana.htm
+6-http://en.wikipedia.org/wiki/Rebecca_Horn
+6-http://en.wikipedia.org/wiki/Gina_Pane
+####
+0-British Pop Art
+1-13
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-british-pop-art.htm
+3-1947
+4-1969
+5-Eduardo Paolozzi
+5-Richard Hamilton
+5-Peter Blake
+5-Patrick Caulfield
+5-Gerald Laing
+5-Allen Jones
+5-David Hockney
+6-artist-paolozzi-eduardo.htm
+6-artist-hamilton-richard.htm
+6-artist-blake-peter.htm
+6-https://en.wikipedia.org/wiki/Patrick_Caulfield
+6-https://en.wikipedia.org/wiki/Gerald_Laing
+6-https://en.wikipedia.org/wiki/Allen_Jones_%28artist%29
+6-artist-hockney-david.htm
+####
+0-The CoBrA Group
+1-14
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-cobra-group.htm
+3-1948
+4-1951
+5-No Key Artists
+6-No Key HREFs
+####
+0-Color Field Painting
+1-15
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-color-field-painting.htm
+3-1949
+4-1965
+5-Mark Rothko
+5-Clyfford Still
+5-Helen Frankenthaler
+5-Kenneth Noland
+5-Morris Louis
+5-Barnett Newman
+5-Frank Stella
+5-Richard Diebenkorn
+5-Ellsworth Kelly
+6-artist-rothko-mark.htm
+6-artist-still-clyfford.htm
+6-artist-frankenthaler-helen.htm
+6-artist-noland-kenneth.htm
+6-artist-louis-morris.htm
+6-artist-newman-barnett.htm
+6-artist-stella-frank.htm
+6-artist-diebenkorn-richard.htm
+6-artist-kelly-ellsworth.htm
+####
+0-Conceptual Art
+1-16
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-conceptual-art.htm
+3-1965
+4-2020
+5-Joseph Beuys
+5-John Baldessari
+5-Sol LeWitt
+5-Robert Rauschenberg
+5-Robert Smithson
+5-Walter de Maria
+5-Damien Hirst
+5-Jenny Holzer
+5-Joseph Kosuth
+5-Lawrence Weiner
+6-artist-beuys-joseph.htm
+6-artist-baldessari-john.htm
+6-artist-lewitt-sol.htm
+6-artist-rauschenberg-robert.htm
+6-artist-smithson-robert.htm
+6-artist-de-maria-walter.htm
+6-artist-hirst-damien.htm
+6-artist-holzer-jenny.htm
+6-artist-kosuth-joseph.htm
+6-http://en.wikipedia.org/wiki/Lawrence_weiner
+####
+0-Constructivism
+1-17
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-constructivism.htm
+3-1915
+4-1939
+5-Vladimir Tatlin
+5-El Lissitzky
+5-Laszlo Moholy-Nagy
+5-Alexander Rodchenko
+5-Naum Gabo
+5-Lyubov Popova
+5-Varvara Stepanova
+6-artist-tatlin-vladimir.htm
+6-artist-lissitzky-el.htm
+6-artist-moholy-nagy-laszlo.htm
+6-artist-rodchenko-alexander.htm
+6-artist-gabo-naum.htm
+6-http://en.wikipedia.org/wiki/Lyubov_Popova
+6-http://en.wikipedia.org/wiki/Varvara_Stepanova
+####
+0-Contemporary Realism
+1-18
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-contemporary-realism.htm
+3-1960
+4-1970
+5-Jane Freilicher
+5-Alex Katz
+5-Leland Bell
+5-Fairfield Porter
+5-Philip Pearlstein
+5-Lois Dodd
+5-William Bailey
+5-Neil Welliver
+5-Louisa Matthiasdottir
+5-Nell Blaine
+6-http://www.polizzifineart.com/Jane%20Freilicher/bio.htm
+6-artist-katz-alex.htm
+6-artist-bell-leland.htm
+6-artist-porter-fairfield.htm
+6-http://en.wikipedia.org/wiki/Philip_Pearlstein
+6-https://en.wikipedia.org/wiki/Lois_Dodd
+6-https://en.wikipedia.org/wiki/William_H._Bailey
+6-https://en.wikipedia.org/wiki/Neil_Welliver
+6-http://en.wikipedia.org/wiki/Louisa_Matth%C3%ADasd%C3%B3ttir
+6-http://www.nytimes.com/1996/11/15/arts/nell-blaine-74-painter-who-blended-styles.html
+####
+0-Cubism
+1-19
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-cubism.htm
+3-1907
+4-1922
+5-Pablo Picasso
+5-Georges Braque
+5-Fernand Leger
+5-Juan Gris
+5-Robert Delaunay
+5-Sonia Delaunay
+5-Jacques Lipchitz
+5-Raymond Duchamp-Villon
+5-Jean Metzinger
+6-artist-picasso-pablo.htm
+6-artist-braque-georges.htm
+6-artist-leger-fernand.htm
+6-artist-gris-juan.htm
+6-artist-delaunay-robert.htm
+6-artist-delaunay-sonia.htm
+6-artist-lipchitz-jacques.htm
+6-http://en.wikipedia.org/wiki/Raymond_Duchamp-Villon
+6-http://en.wikipedia.org/wiki/Jean_Metzinger
+####
+0-Dada and Surrealist Photography
+1-20
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-dada-and-surrealist-photography.htm
+3-1919
+4-1960
+5-Man Ray
+5-Eugene Atget
+5-Hans Bellmer
+5-Rene Magritte
+5-Dora Maar
+5-Marcel Duchamp
+5-Max Ernst
+5-Andre Breton
+5-Brassai
+5-Salvador Dali
+5-Lee Miller
+5-Claude Cahun
+5-Hannah Hoch
+6-artist-ray-man.htm
+6-artist-atget-eugene.htm
+6-artist-bellmer-hans.htm
+6-artist-magritte-rene.htm
+6-https://en.wikipedia.org/wiki/Dora_Maar
+6-artist-duchamp-marcel.htm
+6-artist-ernst-max.htm
+6-artist-breton-andre.htm
+6-https://en.wikipedia.org/wiki/Brassa%C3%AF
+6-artist-dali-salvador.htm
+6-artist-miller-lee.htm
+6-artist-cahun-claude.htm
+6-artist-hoch-hannah.htm
+####
+0-Dada
+1-21
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-dada.htm
+3-1916
+4-1924
+5-Francis Picabia
+5-Marcel Duchamp
+5-Man Ray
+5-Hannah Hoch
+5-Sophie Taeuber-Arp
+5-Andre Breton
+5-Hans Arp
+5-Hans Bellmer
+5-Tristan Tzara
+5-Marcel Janco
+5-Baroness Elsa von Freytag-Loringhoven
+5-Hugo Ball
+5-Max Ernst
+5-Kurt Schwitters
+5-Claude Cahun
+6-artist-picabia-francis.htm
+6-artist-duchamp-marcel.htm
+6-artist-ray-man.htm
+6-artist-hoch-hannah.htm
+6-artist-taeuber-arp-sophie.htm
+6-artist-breton-andre.htm
+6-artist-arp-hans.htm
+6-artist-bellmer-hans.htm
+6-artist-tzara-tristan.htm
+6-artist-janco-marcel.htm
+6-artist-von-freytag-loringhoven-elsa.htm
+6-artist-ball-hugo.htm
+6-artist-ernst-max.htm
+6-artist-schwitters-kurt.htm
+6-artist-cahun-claude.htm
+####
+0-De Stijl
+1-22
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-de-stijl.htm
+3-1917
+4-1931
+5-Theo van Doesburg
+5-Piet Mondrian
+5-J.J.P. Oud
+5-Vilmos Huszar
+5-Gerrit Rietveld
+5-Ilya Bolotowsky
+5-Georges Vantongerloo
+5-Bart van der Leck
+6-artist-van-doesburg-theo.htm
+6-artist-mondrian-piet.htm
+6-http://en.wikipedia.org/wiki/Jjp_oud
+6-http://en.wikipedia.org/wiki/Vilmos_Husz%C3%A1r
+6-http://en.wikipedia.org/wiki/Gerrit_Rietveld
+6-http://en.wikipedia.org/wiki/Ilya_Bolotowsky
+6-http://en.wikipedia.org/wiki/Georges_Vantongerloo
+6-http://en.wikipedia.org/wiki/Bart_van_der_Leck
+####
+0-Der Blaue Reiter
+1-23
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-der-blaue-reiter.htm
+3-1911
+4-1914
+5-Wassily Kandinsky
+5-Alexej von Jawlensky
+5-Franz Marc
+5-August Macke
+5-Paul Klee
+5-Lyonel Feininger
+5-Natalia Goncharova
+5-Emil Nolde
+6-artist-kandinsky-wassily.htm
+6-http://en.wikipedia.org/wiki/Alexej_von_Jawlensky
+6-artist-marc-franz.htm
+6-http://en.wikipedia.org/wiki/August_Macke
+6-artist-klee-paul.htm
+6-artist-feininger-lyonel.htm
+6-artist-goncharova-natalia.htm
+6-artist-nolde-emil.htm
+####
+0-Die Brucke
+1-24
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-die-brucke.htm
+3-1905
+4-1913
+5-Ernst Ludwig Kirchner
+5-Fritz Bleyl
+5-Karl Schmidt-Rottluff
+5-Erich Heckel
+5-Emil Nolde
+5-Max Pechstein
+6-artist-kirchner-ernst-ludwig.htm
+6-http://en.wikipedia.org/wiki/Fritz_Bleyl
+6-http://en.wikipedia.org/wiki/Karl_Schmidt-Rottluff
+6-http://en.wikipedia.org/wiki/Erich_Heckel
+6-artist-nolde-emil.htm
+6-http://en.wikipedia.org/wiki/Max_Pechstein
+####
+0-Digital Art
+1-25
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-digital-art.htm
+3-1965
+4-2020
+5-Robert Rauschenberg
+5-Allan Kaprow
+5-Nam June Paik
+5-Rafael Lozano-Hemmer
+5-Jill Magid
+5-Lillian F. Schwartz
+5-Cao Fei
+5-Petra Cortright
+5-Cory Arcangel
+6-artist-rauschenberg-robert.htm
+6-artist-kaprow-allan.htm
+6-artist-paik-nam-june.htm
+6-https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer
+6-https://en.wikipedia.org/wiki/Jill_Magid
+6-https://en.wikipedia.org/wiki/Lillian_Schwartz
+6-https://en.wikipedia.org/wiki/Cao_Fei
+6-https://en.wikipedia.org/wiki/Petra_Cortright
+6-https://en.wikipedia.org/wiki/Cory_Arcangel
+####
+0-Early Renaissance
+1-26
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-early-renaissance.htm
+3-1401
+4-1490
+5-Masaccio
+5-Donatello
+5-Fra Angelico
+5-Piero della Francesca
+5-Andrea de Mantegna
+6-http://en.wikipedia.org/wiki/Masaccio
+6-artist-donatello.htm
+6-https://en.wikipedia.org/wiki/Fra_Angelico
+6-https://en.wikipedia.org/wiki/Piero_della_Francesca
+6-https://en.wikipedia.org/wiki/Andrea_Mantegna
+####
+0-Earth Art
+1-27
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-earth-art.htm
+3-1960
+4-2020
+5-Robert Smithson
+5-Walter de Maria
+5-Andy Goldsworthy
+5-Michael Heizer
+5-Nancy Holt
+5-Richard Long
+5-Maya Lin
+5-Christo
+5-James Turrell
+5-Ana Mendieta
+5-Dennis Oppenheim
+6-artist-smithson-robert.htm
+6-artist-de-maria-walter.htm
+6-artist-goldsworthy-andy.htm
+6-artist-heizer-michael.htm
+6-artist-holt-nancy.htm
+6-artist-long-richard.htm
+6-artist-lin-maya.htm
+6-artist-christo.htm
+6-artist-turrell-james.htm
+6-artist-mendieta-ana.htm
+6-http://en.wikipedia.org/wiki/Dennis_Oppenheim
+####
+0-Expressionism
+1-28
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-expressionism.htm
+3-1905
+4-1933
+5-Ernst Ludwig Kirchner
+5-Wassily Kandinsky
+5-Paul Klee
+5-Karl Schmidt-Rottluff
+5-Chaim Soutine
+5-Max Beckmann
+5-Franz Marc
+5-August Macke
+5-Emil Nolde
+5-Egon Schiele
+6-artist-kirchner-ernst-ludwig.htm
+6-artist-kandinsky-wassily.htm
+6-artist-klee-paul.htm
+6-http://en.wikipedia.org/wiki/Karl_Schmidt-Rottluff
+6-artist-soutine-chaim.htm
+6-artist-beckmann-max.htm
+6-artist-marc-franz.htm
+6-http://en.wikipedia.org/wiki/August_Macke
+6-artist-nolde-emil.htm
+6-artist-schiele-egon.htm
+####
+0-Fauvism
+1-29
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-fauvism.htm
+3-1899
+4-1908
+5-Henri Matisse
+5-Maurice de Vlaminck
+5-Andre Derain
+5-Kees van Dongen
+5-Raoul Dufy
+5-Georges Braque
+6-artist-matisse-henri.htm
+6-artist-de-vlaminck-maurice.htm
+6-artist-derain-andre.htm
+6-artist-van-dongen-kees.htm
+6-artist-dufy-raoul.htm
+6-artist-braque-georges.htm
+####
+0-Feminist Art
+1-30
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-feminist-art.htm
+3-1960
+4-2020
+5-Judy Chicago
+5-Miriam Schapiro
+5-Barbara Kruger
+5-Carolee Schneemann
+5-Hannah Wilke
+5-Jenny Holzer
+5-Faith Ringgold
+5-Ana Mendieta
+5-Martha Rosler
+5-Sherrie Levine
+5-Laurie Anderson
+6-artist-chicago-judy.htm
+6-artist-schapiro-miriam.htm
+6-artist-kruger-barbara.htm
+6-artist-schneemann-carolee.htm
+6-artist-wilke-hannah.htm
+6-artist-holzer-jenny.htm
+6-artist-ringgold-faith.htm
+6-artist-mendieta-ana.htm
+6-artist-rosler-martha.htm
+6-artist-levine-sherrie.htm
+6-artist-anderson-laurie.htm
+####
+0-Fluxus
+1-31
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-fluxus.htm
+3-1959
+4-1978
+5-George Maciunas
+5-Yoko Ono
+5-Nam June Paik
+5-Allan Kaprow
+5-George Brecht
+5-Yayoi Kusama
+5-Joseph Beuys
+5-John Cage
+5-Walter de Maria
+5-Robert Morris
+5-Carolee Schneemann
+5-Alison Knowles
+5-Geoffrey Hendricks
+6-http://en.wikipedia.org/wiki/George_Maciunas
+6-artist-ono-yoko.htm
+6-artist-paik-nam-june.htm
+6-artist-kaprow-allan.htm
+6-http://en.wikipedia.org/wiki/George_Brecht
+6-artist-kusama-yayoi.htm
+6-artist-beuys-joseph.htm
+6-artist-cage-john.htm
+6-artist-de-maria-walter.htm
+6-artist-morris-robert.htm
+6-artist-schneemann-carolee.htm
+6-http://en.wikipedia.org/wiki/Alison_Knowles
+6-http://en.wikipedia.org/wiki/Geoffrey_Hendricks
+####
+0-Futurism
+1-32
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-futurism.htm
+3-1909
+4-1929
+5-Umberto Boccioni
+5-Giacomo Balla
+5-Gino Severini
+5-Carlo Carra
+5-Natalia Goncharova
+5-Luigi De Giudici
+5-Primo Conti
+5-Anton Giulio Bragaglia
+5-Enrico Prampolini
+5-Fortunato Depero
+6-artist-boccioni-umberto.htm
+6-http://en.wikipedia.org/wiki/Giacomo_Balla
+6-http://en.wikipedia.org/wiki/Gino_Severini
+6-http://en.wikipedia.org/wiki/Carlo_Carra
+6-artist-goncharova-natalia.htm
+6-http://en.wikipedia.org/wiki/Luigi_De_Giudici
+6-http://en.wikipedia.org/wiki/Primo_Conti
+6-http://en.wikipedia.org/wiki/Anton_Giulio_Bragaglia
+6-http://en.wikipedia.org/wiki/Enrico_Prampolini
+6-http://en.wikipedia.org/wiki/Fortunato_Depero
+####
+0-The Gutai Group
+1-33
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-gutai.htm
+3-1954
+4-1972
+5-No Key Artists
+6-No Key HREFs
+####
+0-Happenings
+1-34
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-happenings.htm
+3-1958
+4-1970
+5-Allan Kaprow
+5-John Cage
+5-Carolee Schneemann
+5-George Segal
+5-George Brecht
+5-Robert Watts
+5-Geoffrey Hendricks
+5-Robert Whitman
+5-Al Hansen
+5-Dick Higgins
+6-artist-kaprow-allan.htm
+6-artist-cage-john.htm
+6-artist-schneemann-carolee.htm
+6-artist-segal-george.htm
+6-http://en.wikipedia.org/wiki/George_Brecht
+6-http://en.wikipedia.org/wiki/Robert_Watts_(artist)
+6-http://en.wikipedia.org/wiki/Geoffrey_Hendricks
+6-http://www.robertwhitman.com/About/1
+6-http://en.wikipedia.org/wiki/Al_Hansen
+6-http://en.wikipedia.org/wiki/Dick_Higgins
+####
+0-Hard-edge Painting
+1-35
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-hard-edge-painting.htm
+3-1959
+4-1970
+5-Karl Benjamin
+5-Lorser Feitelson
+5-Frederick Hammersley
+5-Ellsworth Kelly
+5-Frank Stella
+5-Kenneth Noland
+5-Al Held
+5-Robert Irwin
+6-http://en.wikipedia.org/wiki/Karl_Benjamin
+6-http://en.wikipedia.org/wiki/Lorser_Feitelson
+6-http://www.tributes.com/show/Frederick--Hammersley-86093329
+6-artist-kelly-ellsworth.htm
+6-artist-stella-frank.htm
+6-artist-noland-kenneth.htm
+6-http://en.wikipedia.org/wiki/Al_Held
+6-http://en.wikipedia.org/wiki/Robert_Irwin_(artist)
+####
+0-High Renaissance
+1-36
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-high-renaissance.htm
+3-1490
+4-1527
+5-Leonardo da Vinci
+5-Michelangelo
+5-Raphael
+6-artist-da-vinci-leonardo.htm
+6-artist-michelangelo.htm
+6-artist-raphael.htm
+####
+0-The Hudson River School
+1-37
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-hudson-river-school.htm
+3-1826
+4-1870
+5-Thomas Cole
+5-Asher B Durand
+5-George Inness
+5-Frederic Edwin Church
+5-Albert Bierstadt
+6-artist-cole-thomas.htm
+6-https://en.wikipedia.org/wiki/Asher_Brown_Durand
+6-https://en.wikipedia.org/wiki/George_Inness
+6-https://en.wikipedia.org/wiki/Frederic_Edwin_Church
+6-https://en.wikipedia.org/wiki/Albert_Bierstadt
+####
+0-Impressionism
+1-38
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-impressionism.htm
+3-1872
+4-1892
+5-Edouard Manet
+5-Claude Monet
+5-Edgar Degas
+5-Pierre-Auguste Renoir
+5-Camille Pissarro
+5-Alfred Sisley
+5-Mary Cassatt
+5-John Singer Sargent
+5-Berthe Morisot
+6-artist-manet-edouard.htm
+6-artist-monet-claude.htm
+6-artist-degas-edgar.htm
+6-artist-renoir-pierre-auguste.htm
+6-artist-pissarro-camille.htm
+6-artist-sisley-alfred.htm
+6-artist-cassatt-mary.htm
+6-artist-sargent-john-singer.htm
+6-artist-morisot-berthe.htm
+####
+0-Installation Art
+1-39
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-installation-art.htm
+3-1970
+4-2020
+5-Marcel Duchamp
+5-Judy Chicago
+5-Damien Hirst
+5-Sol LeWitt
+5-Nam June Paik
+5-Tracey Emin
+5-Yayoi Kusama
+5-Richard Serra
+5-Dorothea Tanning
+5-Ai Weiwei
+5-Doris Salcedo
+5-Jean Tinguely
+5-Niki de Saint Phalle
+5-Edward Kienholz
+6-artist-duchamp-marcel.htm
+6-artist-chicago-judy.htm
+6-artist-hirst-damien.htm
+6-artist-lewitt-sol.htm
+6-artist-paik-nam-june.htm
+6-artist-emin-tracey.htm
+6-artist-kusama-yayoi.htm
+6-artist-serra-richard.htm
+6-artist-tanning-dorothea.htm
+6-artist-ai-weiwei.htm
+6-https://en.wikipedia.org/wiki/Doris_Salcedo
+6-artist-tinguely-jean.htm
+6-artist-de-saint-phalle-niki.htm
+6-artist-kienholz-edward.htm
+####
+0-The International Style
+1-40
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-international-style.htm
+3-1914
+4-1970
+5-Le Corbusier
+5-Philip Johnson
+5-Walter Gropius
+5-Ludwig Mies van der Rohe
+5-Eero Saarinen
+6-artist-le-corbusier.htm
+6-http://en.wikipedia.org/wiki/Philip_Johnson
+6-http://en.wikipedia.org/wiki/Walter_Gropius
+6-artist-mies-van-der-rohe-ludwig.htm
+6-artist-saarinen-eero.htm
+####
+0-Japonism
+1-41
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-japonism.htm
+3-1854
+4-1920
+5-Edouard Manet
+5-James Whistler
+5-Edgar Degas
+5-Vincent van Gogh
+5-Paul Gauguin
+5-Mary Cassatt
+5-Henri de Toulouse-Lautrec
+5-Frank Lloyd Wright
+5-Gustav Klimt
+5-Childe Hassam
+5-Edward William Godwin
+6-artist-manet-edouard.htm
+6-artist-whistler-james-abbott-mcneill.htm
+6-artist-degas-edgar.htm
+6-artist-van-gogh-vincent.htm
+6-artist-gauguin-paul.htm
+6-artist-cassatt-mary.htm
+6-artist-toulouse-lautrec-henri.htm
+6-artist-wright-frank-lloyd.htm
+6-artist-klimt-gustav.htm
+6-artist-hassam-childe.htm
+6-https://en.wikipedia.org/wiki/Edward_William_Godwin
+####
+0-Kinetic Art
+1-42
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-kinetic-art.htm
+3-1954
+4-2020
+5-Vladimir Tatlin
+5-Marcel Duchamp
+5-Alexander Calder
+5-Laszlo Moholy-Nagy
+5-Alexander Rodchenko
+5-Naum Gabo
+5-Pol Bury
+5-Jean Tinguely
+5-Mark di Suvero
+5-Yaacov Agam
+5-Nemo Gould
+5-Frank Joseph Malina
+5-Thomas Wilfred
+5-Bruno Munari
+5-Nicolas Schoffer
+6-artist-tatlin-vladimir.htm
+6-artist-duchamp-marcel.htm
+6-artist-calder-alexander.htm
+6-artist-moholy-nagy-laszlo.htm
+6-artist-rodchenko-alexander.htm
+6-artist-gabo-naum.htm
+6-https://en.wikipedia.org/wiki/Pol_Bury
+6-artist-tinguely-jean.htm
+6-artist-di-suvero-mark.htm
+6-http://en.wikipedia.org/wiki/Yaacov_Agam
+6-http://en.wikipedia.org/wiki/Nemo_Gould
+6-http://en.wikipedia.org/wiki/Frank_Malina
+6-http://en.wikipedia.org/wiki/Thomas_Wilfred
+6-http://en.wikipedia.org/wiki/Bruno_Munari
+6-http://en.wikipedia.org/wiki/Nicolas_Schoffer
+####
+0-Les Nabis
+1-43
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-les-nabis.htm
+3-1880
+4-1910
+5-Paul Gauguin
+5-Pierre Bonnard
+5-Maurice Denis
+5-Edouard Vuillard
+5-Paul Serusier
+5-Felix Vallotton
+5-Paul Ranson
+5-Ker-Xavier Roussel
+6-artist-gauguin-paul.htm
+6-artist-bonnard-pierre.htm
+6-artist-denis-maurice.htm
+6-artist-vuillard-edouard.htm
+6-artist-serusier-paul.htm
+6-http://en.wikipedia.org/wiki/Felix_Vallotton
+6-http://en.wikipedia.org/wiki/Paul_Ranson
+6-http://en.wikipedia.org/wiki/Ker-Xavier_Roussel
+####
+0-Luminism
+1-44
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-luminism.htm
+3-1850
+4-1875
+5-No Key Artists
+6-No Key HREFs
+####
+0-Magic Realism
+1-45
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-magic-realism.htm
+3-1925
+4-2020
+5-Ivan Albright
+5-Frida Kahlo
+5-Paul Cadmus
+5-Carl Hofer
+5-Andrew Wyeth
+5-Edward Hopper
+6-https://en.wikipedia.org/wiki/Ivan_Albright
+6-artist-kahlo-frida.htm
+6-https://en.wikipedia.org/wiki/Paul_Cadmus
+6-http://www.artnet.com/artists/karl-hofer/
+6-artist-wyeth-andrew.htm
+6-artist-hopper-edward.htm
+####
+0-Mexican Muralism
+1-46
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-mexican-muralism.htm
+3-1920
+4-1950
+5-Gerardo Murillo
+5-Diego Rivera
+5-Jose Clemente Orozco
+5-David Alfaro Siqueiros
+6-http://en.wikipedia.org/wiki/Gerardo_Murillo
+6-artist-rivera-diego.htm
+6-artist-orozco-jose-clemente.htm
+6-artist-siqueiros-david-alfaro.htm
+####
+0-Minimalism
+1-47
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-minimalism.htm
+3-1960
+4-1969
+5-Carl Andre
+5-Dan Flavin
+5-Robert Irwin
+5-Donald Judd
+5-Kenneth Noland
+5-Richard Serra
+5-Frank Stella
+5-Sol LeWitt
+5-Agnes Martin
+5-Robert Morris
+6-artist-andre-carl.htm
+6-artist-flavin-dan.htm
+6-http://en.wikipedia.org/wiki/Robert_Irwin_(artist)
+6-artist-judd-donald.htm
+6-artist-noland-kenneth.htm
+6-artist-serra-richard.htm
+6-artist-stella-frank.htm
+6-artist-lewitt-sol.htm
+6-artist-martin-agnes.htm
+6-artist-morris-robert.htm
+####
+0-Naturalism
+1-48
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-naturalism.htm
+3-1820
+4-1880
+5-John Constable
+5-Thomas Cole
+5-Jean-Baptiste-Camille Corot
+5-Theodore Rousseau
+6-artist-constable-john.htm
+6-artist-cole-thomas.htm
+6-artist-corot-jean-baptiste-camille.htm
+6-artist-rousseau-theodore.htm
+####
+0-Neo-Dada
+1-49
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-neo-dada.htm
+3-1952
+4-1970
+5-Robert Rauschenberg
+5-Jasper Johns
+5-John Cage
+5-Allan Kaprow
+5-Arman
+5-Yves Klein
+5-Merce Cunningham
+5-Jim Dine
+5-Red Grooms
+5-Edward Kienholz
+6-artist-rauschenberg-robert.htm
+6-artist-johns-jasper.htm
+6-artist-cage-john.htm
+6-artist-kaprow-allan.htm
+6-artist-arman.htm
+6-artist-klein-yves.htm
+6-http://en.wikipedia.org/wiki/Merce_Cunningham
+6-artist-dine-jim.htm
+6-http://en.wikipedia.org/wiki/Red_Grooms
+6-artist-kienholz-edward.htm
+####
+0-Neo-Expressionism
+1-50
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-neo-expressionism.htm
+3-1979
+4-1990
+5-Georg Baselitz
+5-Jean-Michel Basquiat
+5-Philip Guston
+5-Julian Schnabel
+5-Eric Fischl
+5-Francesco Clemente
+5-Anselm Kiefer
+5-David Salle
+6-artist-baselitz-georg.htm
+6-artist-basquiat-jean-michel.htm
+6-artist-guston-philip.htm
+6-artist-schnabel-julian.htm
+6-artist-fischl-eric.htm
+6-artist-clemente-francesco.htm
+6-artist-kiefer-anselm.htm
+6-artist-salle-david.htm
+####
+0-Neo-Impressionism
+1-51
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-neo-impressionism.htm
+3-1884
+4-1935
+5-Georges Seurat
+5-Albert Dubois-Pillet
+5-Camille Pissarro
+5-Vincent van Gogh
+5-Paul Signac
+5-Henri-Edmond Cross
+5-Henri Matisse
+5-Jean Metzinger
+6-artist-seurat-georges.htm
+6-https://en.wikipedia.org/wiki/Albert_Dubois-Pillet
+6-artist-pissarro-camille.htm
+6-artist-van-gogh-vincent.htm
+6-artist-signac-paul.htm
+6-http://en.wikipedia.org/wiki/Henri-Edmond_Cross
+6-artist-matisse-henri.htm
+6-http://en.wikipedia.org/wiki/Jean_Metzinger
+####
+0-Neo-Plasticism
+1-52
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-neo-plasticism.htm
+3-1917
+4-1944
+5-Piet Mondrian
+5-Theo van Doesburg
+5-Gerrit Rietveld
+5-Bart van der Leck
+6-artist-mondrian-piet.htm
+6-artist-van-doesburg-theo.htm
+6-http://en.wikipedia.org/wiki/Gerrit_Rietveld
+6-http://en.wikipedia.org/wiki/Bart_van_der_Leck
+####
+0-Neue Sachlichkeit (New Objectivity)
+1-53
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-new-objectivity.htm
+3-1919
+4-1933
+5-Otto Dix
+5-George Grosz
+5-Max Beckmann
+5-Rudolf Schlichter
+5-August Sander
+6-artist-dix-otto.htm
+6-artist-grosz-george.htm
+6-artist-beckmann-max.htm
+6-http://en.wikipedia.org/wiki/Rudolf_Schlichter
+6-https://en.wikipedia.org/wiki/August_Sander
+####
+0-Nihonga
+1-54
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-nihonga.htm
+3-1882
+4-2020
+5-No Key Artists
+6-No Key HREFs
+####
+0-Northern European Renaissance
+1-55
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-northern-renaissance.htm
+3-1430
+4-1580
+5-Jan van Eyck
+5-Hieronymus Bosch
+5-Albrecht Durer
+6-artist-van-eyck-jan.htm
+6-artist-bosch-hieronymus.htm
+6-http://en.wikipedia.org/wiki/Albrecht_Durer
+####
+0-Nouveau Realisme
+1-56
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-nouveau-realisme.htm
+3-1960
+4-1970
+5-Arman
+5-Cesar Baldaccini
+5-Christo
+5-Francois Dufrene
+5-Raymond Hains
+5-Yves Klein
+5-Niki de Saint Phalle
+5-Daniel Spoerri
+5-Jean Tinguely
+5-Jacques Villegle
+6-artist-arman.htm
+6-http://en.wikipedia.org/wiki/C%C3%A9sar_Baldaccini
+6-artist-christo.htm
+6-http://en.wikipedia.org/wiki/Fran%C3%A7ois_Dufrene
+6-http://en.wikipedia.org/wiki/Raymond_Hains
+6-artist-klein-yves.htm
+6-artist-de-saint-phalle-niki.htm
+6-http://en.wikipedia.org/wiki/Daniel_Spoerri
+6-artist-tinguely-jean.htm
+6-https://en.wikipedia.org/wiki/Jacques_Villegl%C3%A9
+####
+0-Op Art
+1-57
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-op-art.htm
+3-1964
+4-2020
+5-Victor Vasarely
+5-Bridget Riley
+5-Frank Stella
+5-Jesus Rafael Soto
+5-Josef Albers
+5-Richard Anuszkiewicz
+6-artist-vasarely-victor.htm
+6-artist-riley-bridget.htm
+6-artist-stella-frank.htm
+6-http://en.wikipedia.org/wiki/Jesus_Rafael_Soto
+6-artist-albers-josef.htm
+6-http://en.wikipedia.org/wiki/Richard_Anuszkiewicz
+####
+0-Orientalism
+1-58
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-orientalism.htm
+3-1810
+4-1890
+5-Jean-Auguste-Dominique Ingres
+5-Eugene Delacroix
+5-William Holman Hunt
+5-Jean-Leon Gerome
+5-Gustave Moreau
+6-artist-ingres-jean-auguste-dominique.htm
+6-artist-delacroix-eugene.htm
+6-https://en.wikipedia.org/wiki/William_Holman_Hunt
+6-http://en.wikipedia.org/wiki/Jean-Leon_Gerome
+6-artist-moreau-gustave.htm
+####
+0-Orphism
+1-59
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-orphism.htm
+3-1911
+4-1914
+5-Robert Delaunay
+5-Sonia Delaunay
+5-Franz Marc
+5-Frantisek Kupka
+6-artist-delaunay-robert.htm
+6-artist-delaunay-sonia.htm
+6-artist-marc-franz.htm
+6-artist-kupka-frantisek.htm
+####
+0-Peredvizhniki
+1-60
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-peredvizhniki.htm
+3-1863
+4-1923
+5-No Key Artists
+6-No Key HREFs
+####
+0-Performance Art
+1-61
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-performance-art.htm
+3-1960
+4-2020
+5-Yves Klein
+5-Marina Abramovic
+5-Joseph Beuys
+5-Allan Kaprow
+5-Andy Kaufman
+5-Yoko Ono
+5-Vito Acconci
+5-Annie Sprinkle
+5-Chris Burden
+5-Coco Fusco
+5-Carolee Schneemann
+5-Gunter Brus
+5-Zhang Huan
+5-Guillermo Gomez-Pena
+5-Hannah Wilke
+5-Laurie Anderson
+5-Linda Montano
+5-Yes Men
+6-artist-klein-yves.htm
+6-artist-abramovic-marina.htm
+6-artist-beuys-joseph.htm
+6-artist-kaprow-allan.htm
+6-http://en.wikipedia.org/wiki/Andy_Kaufman
+6-artist-ono-yoko.htm
+6-http://en.wikipedia.org/wiki/Vito_Acconci
+6-http://en.wikipedia.org/wiki/Annie_Sprinkle
+6-artist-burden-chris.htm
+6-http://en.wikipedia.org/wiki/Coco_Fusco
+6-artist-schneemann-carolee.htm
+6-http://en.wikipedia.org/wiki/Gunter_Brus
+6-artist-zhang-huan.htm
+6-http://en.wikipedia.org/wiki/Guillermo_Gomez-Pena
+6-artist-wilke-hannah.htm
+6-artist-anderson-laurie.htm
+6-http://en.wikipedia.org/wiki/Linda_Montano
+6-http://en.wikipedia.org/wiki/The_Yes_Men
+####
+0-Photorealism
+1-62
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-photorealism.htm
+3-1960
+4-2020
+5-Chuck Close
+5-Richard Estes
+5-Ralph Goings
+5-Malcolm Morley
+5-Duane Hanson
+5-Audrey Flack
+5-Denis Peterson
+6-artist-close-chuck.htm
+6-artist-estes-richard.htm
+6-artist-goings-ralph.htm
+6-http://en.wikipedia.org/wiki/Malcolm_Morley
+6-http://en.wikipedia.org/wiki/Duane_Hanson
+6-http://en.wikipedia.org/wiki/Audrey_Flack
+6-http://en.wikipedia.org/wiki/Denis_Peterson
+####
+0-Pop Art
+1-63
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-pop-art.htm
+3-1955
+4-1970
+5-Andy Warhol
+5-Roy Lichtenstein
+5-James Rosenquist
+5-Claes Oldenburg
+5-Richard Hamilton
+5-Tom Wesselmann
+5-Sigmar Polke
+5-Eduardo Paolozzi
+5-David Hockney
+5-Alex Katz
+5-George Segal
+5-Ed Ruscha
+5-Robert Rauschenberg
+5-Jasper Johns
+6-artist-warhol-andy.htm
+6-artist-lichtenstein-roy.htm
+6-artist-rosenquist-james.htm
+6-artist-oldenburg-claes.htm
+6-artist-hamilton-richard.htm
+6-artist-wesselmann-tom.htm
+6-artist-polke-sigmar.htm
+6-artist-paolozzi-eduardo.htm
+6-artist-hockney-david.htm
+6-artist-katz-alex.htm
+6-artist-segal-george.htm
+6-artist-ruscha-ed.htm
+6-artist-rauschenberg-robert.htm
+6-artist-johns-jasper.htm
+####
+0-Post-Impressionism
+1-64
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-post-impressionism.htm
+3-1880
+4-1914
+5-Paul Cezanne
+5-Vincent van Gogh
+5-Paul Gauguin
+5-Georges Seurat
+5-Edouard Vuillard
+5-Pierre Bonnard
+5-Henri Rousseau
+5-Henri de Toulouse-Lautrec
+6-artist-cezanne-paul.htm
+6-artist-van-gogh-vincent.htm
+6-artist-gauguin-paul.htm
+6-artist-seurat-georges.htm
+6-artist-vuillard-edouard.htm
+6-artist-bonnard-pierre.htm
+6-artist-rousseau-henri.htm
+6-artist-toulouse-lautrec-henri.htm
+####
+0-Post-Minimalism
+1-65
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-post-minimalism.htm
+3-1966
+4-2020
+5-Vito Acconci
+5-Joseph Beuys
+5-Chris Burden
+5-Eva Hesse
+5-Sol LeWitt
+5-Richard Long
+5-Robert Morris
+5-Bruce Nauman
+5-Richard Serra
+5-Robert Smithson
+6-http://en.wikipedia.org/wiki/Vito_Acconci
+6-artist-beuys-joseph.htm
+6-artist-burden-chris.htm
+6-artist-hesse-eva.htm
+6-artist-lewitt-sol.htm
+6-artist-long-richard.htm
+6-artist-morris-robert.htm
+6-artist-nauman-bruce.htm
+6-artist-serra-richard.htm
+6-artist-smithson-robert.htm
+####
+0-Post-Painterly Abstraction
+1-66
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-post-painterly-abstraction.htm
+3-1950
+4-1975
+5-Helen Frankenthaler
+5-Ellsworth Kelly
+5-Morris Louis
+5-Kenneth Noland
+5-Jules Olitski
+5-Frank Stella
+5-Sam Francis
+5-Al Held
+6-artist-frankenthaler-helen.htm
+6-artist-kelly-ellsworth.htm
+6-artist-louis-morris.htm
+6-artist-noland-kenneth.htm
+6-artist-olitski-jules.htm
+6-artist-stella-frank.htm
+6-http://en.wikipedia.org/wiki/Sam_Francis
+6-http://en.wikipedia.org/wiki/Al_Held
+####
+0-The Pre-Raphaelite
+1-67
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-pre-raphaelites.htm
+3-1848
+4-1890
+5-Dante Gabriel Rossetti
+5-William Holman Hunt
+5-John Everett Millais
+5-William Morris
+5-Edward Burne-Jones
+5-Julia Margaret Cameron
+6-https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+6-https://en.wikipedia.org/wiki/William_Holman_Hunt
+6-https://en.wikipedia.org/wiki/John_Everett_Millais
+6-https://en.wikipedia.org/wiki/William_Morris
+6-https://en.wikipedia.org/wiki/Edward_Burne-Jones
+6-https://en.wikipedia.org/wiki/Julia_Margaret_Cameron
+####
+0-Primitivism
+1-68
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-primitivism.htm
+3-1890
+4-1945
+5-Paul Gauguin
+5-Pablo Picasso
+5-Henri Matisse
+5-Constantin Brancusi
+5-Ernst Ludwig Kirchner
+5-Jean Dubuffet
+6-artist-gauguin-paul.htm
+6-artist-picasso-pablo.htm
+6-artist-matisse-henri.htm
+6-artist-brancusi-constantin.htm
+6-artist-kirchner-ernst-ludwig.htm
+6-artist-dubuffet-jean.htm
+####
+0-Rayonism
+1-69
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-rayonism.htm
+3-1911
+4-1914
+5-Mikhail Larionov
+5-Natalia Goncharova
+6-http://en.wikipedia.org/wiki/Mikhail_Larionov
+6-artist-goncharova-natalia.htm
+####
+0-Realism
+1-70
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-realism.htm
+3-1840
+4-1880
+5-Gustave Courbet
+5-Jean-Francois Millet
+5-Edouard Manet
+5-James Whistler
+5-John Singer Sargent
+5-Thomas Eakins
+5-Ilya Repin
+5-Honore Daumier
+6-artist-courbet-gustave.htm
+6-artist-millet-jean-francois.htm
+6-artist-manet-edouard.htm
+6-artist-whistler-james-abbott-mcneill.htm
+6-artist-sargent-john-singer.htm
+6-artist-eakins-thomas.htm
+6-http://en.wikipedia.org/wiki/Ilya_Repin
+6-artist-daumier-honore.htm
+####
+0-Romanticism
+1-71
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-romanticism.htm
+3-1780
+4-1830
+5-Francisco Goya
+5-Jean-Auguste-Dominique Ingres
+5-Caspar David Friedrich
+5-Theodore Gericault
+5-J.M.W. Turner
+5-Henry Fuseli
+5-Eugene Delacroix
+5-William Blake
+5-John Constable
+5-Ivan Aivazovsky
+6-artist-goya-francisco.htm
+6-artist-ingres-jean-auguste-dominique.htm
+6-artist-friedrich-caspar-david.htm
+6-artist-gericault-theodore.htm
+6-artist-turner-jmw.htm
+6-https://en.wikipedia.org/wiki/Henry_Fuseli
+6-artist-delacroix-eugene.htm
+6-artist-blake-william.htm
+6-artist-constable-john.htm
+6-artist-aivazovsky-ivan.htm
+####
+0-Russian Futurism
+1-72
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-russian-futurism.htm
+3-1911
+4-1916
+5-Natalia Goncharova
+5-Mikhail Larionov
+5-Velimir Khlebnikov
+5-Kazimir Malevich
+6-artist-goncharova-natalia.htm
+6-http://en.wikipedia.org/wiki/Mikhail_Larionov
+6-http://en.wikipedia.org/wiki/Velimir_Khlebnikov
+6-artist-malevich-kasimir.htm
+####
+0-Salon Cubism
+1-73
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-salon-cubism.htm
+3-1910
+4-1918
+5-Henri Le Fauconnier
+5-Albert Gleizes
+5-Jean Metzinger
+5-Fernand Leger
+5-Robert Delaunay
+5-Raymond Duchamp-Villon
+5-Alexander Archipenko
+6-https://en.wikipedia.org/wiki/Henri_Le_Fauconnier
+6-http://en.wikipedia.org/wiki/Albert_Gleizes
+6-http://en.wikipedia.org/wiki/Jean_Metzinger
+6-artist-leger-fernand.htm
+6-artist-delaunay-robert.htm
+6-http://en.wikipedia.org/wiki/Raymond_Duchamp-Villon
+6-http://en.wikipedia.org/wiki/Alexander_Archipenko
+####
+0-Social Realism
+1-74
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-social-realism.htm
+3-1929
+4-1959
+5-William Gropper
+5-Ben Shahn
+5-Isamu Noguchi
+5-Raphael Soyer
+5-Philip Evergood
+5-Jacob Lawrence
+6-http://en.wikipedia.org/wiki/William_Gropper
+6-artist-shahn-ben.htm
+6-artist-noguchi-isamu.htm
+6-http://en.wikipedia.org/wiki/Raphael_Soyer
+6-http://en.wikipedia.org/wiki/Philip_Evergood
+6-artist-lawrence-jacob.htm
+####
+0-Sosaku-hanga Creative Prints
+1-75
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-sosuku-hanga-creative-prints.htm
+3-1904
+4-1960
+5-No Key Artists
+6-No Key HREFs
+####
+0-Straight Photography
+1-76
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-straight-photography.htm
+3-1910
+4-2020
+5-Paul Strand
+5-Ansel Adams
+5-Laszlo Moholy-Nagy
+5-Manuel Alvarez Bravo
+5-Berenice Abbott
+5-Walker Evans
+5-Robert Capa
+5-Eliot Porter
+5-Diane Arbus
+6-artist-strand-paul.htm
+6-http://en.wikipedia.org/wiki/Ansel_Adams
+6-artist-moholy-nagy-laszlo.htm
+6-http://en.wikipedia.org/wiki/Manuel_%C3%81lvarez_Bravo
+6-https://en.wikipedia.org/wiki/Berenice_Abbott
+6-artist-evans-walker.htm
+6-https://en.wikipedia.org/wiki/Robert_Capa
+6-http://en.wikipedia.org/wiki/Eliot_Porter
+6-artist-arbus-diane.htm
+####
+0-Superflat
+1-77
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-superflat.htm
+3-2000
+4-2020
+5-Takashi Murakami
+5-Yoshitomo Nara
+5-Aya Takano
+6-artist-murakami-takashi.htm
+6-https://en.wikipedia.org/wiki/Yoshitomo_Nara
+6-https://en.wikipedia.org/wiki/Aya_Takano
+####
+0-Suprematism
+1-78
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-suprematism.htm
+3-1913
+4-1929
+5-Kazimir Malevich
+5-Ilya Chashnik
+5-El Lissitzky
+5-Alexander Rodchenko
+5-Olga Rozanova
+5-Nikolai Suetin
+5-Vera Yermolayeva
+6-artist-malevich-kasimir.htm
+6-http://en.wikipedia.org/wiki/Ilya_Chashnik
+6-artist-lissitzky-el.htm
+6-artist-rodchenko-alexander.htm
+6-artist-rozanova-olga.htm
+6-http://en.wikipedia.org/wiki/Nikolai_Suetin
+6-http://www.invaluable.com/artist/yermolayeva-vera-l0a71uf6er
+####
+0-Surrealism
+1-79
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-surrealism.htm
+3-1924
+4-1966
+5-Andre Breton
+5-Hans Arp
+5-Max Ernst
+5-Salvador Dali
+5-Alberto Giacometti
+5-Joan Miro
+5-Rene Magritte
+5-Man Ray
+5-Yves Tanguy
+5-Leonora Carrington
+5-Pablo Picasso
+5-Meret Oppenheim
+5-Hans Richter
+5-Hans Bellmer
+5-Luis Bunuel
+5-Claude Cahun
+5-Remedios Varo
+5-Andre Masson
+6-artist-breton-andre.htm
+6-artist-arp-hans.htm
+6-artist-ernst-max.htm
+6-artist-dali-salvador.htm
+6-artist-giacometti-alberto.htm
+6-artist-miro-joan.htm
+6-artist-magritte-rene.htm
+6-artist-ray-man.htm
+6-artist-tanguy-yves.htm
+6-artist-carrington-leonora.htm
+6-artist-picasso-pablo.htm
+6-artist-oppenheim-meret.htm
+6-artist-richter-hans.htm
+6-artist-bellmer-hans.htm
+6-artist-bunuel-luis.htm
+6-artist-cahun-claude.htm
+6-artist-varo-remedios.htm
+6-http://en.wikipedia.org/wiki/Andre_Masson
+####
+0-Surrealist Film
+1-80
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-surrealist-film.htm
+3-1928
+4-1950
+5-Man Ray
+5-Germaine Dulac
+5-Antonin Artaud
+5-Luis Bunuel
+5-Salvador Dali
+5-Jean Cocteau
+5-Joseph Cornell
+5-Hans Richter
+5-David Lynch
+6-artist-ray-man.htm
+6-https://en.wikipedia.org/wiki/Germaine_Dulac
+6-http://en.wikipedia.org/wiki/Theatre_of_Cruelty
+6-artist-bunuel-luis.htm
+6-artist-dali-salvador.htm
+6-http://en.wikipedia.org/wiki/Jean_Cocteau
+6-artist-cornell-joseph.htm
+6-artist-richter-hans.htm
+6-https://en.wikipedia.org/wiki/David_Lynch
+####
+0-Surrealist Sculpture
+1-81
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-surrealist-sculpture.htm
+3-1924
+4-1966
+5-Man Ray
+5-Marcel Duchamp
+5-Hans Arp
+5-Alberto Giacometti
+5-Henry Moore
+5-Hans Bellmer
+5-Salvador Dali
+5-Meret Oppenheim
+5-Pablo Picasso
+5-Alexander Calder
+5-Isamu Noguchi
+5-Victor Brauner
+5-Max Ernst
+6-artist-ray-man.htm
+6-artist-duchamp-marcel.htm
+6-artist-arp-hans.htm
+6-artist-giacometti-alberto.htm
+6-artist-moore-henry.htm
+6-artist-bellmer-hans.htm
+6-artist-dali-salvador.htm
+6-artist-oppenheim-meret.htm
+6-artist-picasso-pablo.htm
+6-artist-calder-alexander.htm
+6-artist-noguchi-isamu.htm
+6-artist-brauner-victor.htm
+6-artist-ernst-max.htm
+####
+0-Symbolism
+1-82
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-symbolism.htm
+3-1880
+4-1910
+5-Paul Gauguin
+5-James Whistler
+5-Gustave Moreau
+5-Odilon Redon
+5-Jan Toorop
+5-Aubrey Beardsley
+5-Edvard Munch
+5-Pierre Bonnard
+5-Henri Rousseau
+6-artist-gauguin-paul.htm
+6-artist-whistler-james-abbott-mcneill.htm
+6-artist-moreau-gustave.htm
+6-artist-redon-odilon.htm
+6-http://en.wikipedia.org/wiki/Jan_Toorop
+6-artist-beardsley-aubrey.htm
+6-artist-munch-edvard.htm
+6-artist-bonnard-pierre.htm
+6-artist-rousseau-henri.htm
+####
+0-Synchromism
+1-83
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-synchromism.htm
+3-1912
+4-1924
+5-Morgan Russell
+5-Stanton Macdonald-Wright
+5-Arthur B. Davies
+5-Thomas Hart Benton
+5-Stuart Davis
+6-http://en.wikipedia.org/wiki/Morgan_Russell
+6-http://en.wikipedia.org/wiki/Stanton_Macdonald-Wright
+6-https://en.wikipedia.org/wiki/Arthur_Bowen_Davies
+6-artist-benton-thomas-hart.htm
+6-artist-davis-stuart.htm
+####
+0-The Pictures Generation
+1-84
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-the-pictures-generation.htm
+3-1974
+4-1984
+5-John Baldessari
+5-Cindy Sherman
+5-Barbara Kruger
+5-Jack Goldstein
+5-Sherrie Levine
+5-Robert Longo
+5-Richard Prince
+6-artist-baldessari-john.htm
+6-artist-sherman-cindy.htm
+6-artist-kruger-barbara.htm
+6-http://en.wikipedia.org/wiki/Jack_Goldstein
+6-artist-levine-sherrie.htm
+6-http://en.wikipedia.org/wiki/Robert_Longo
+6-artist-prince-richard.htm
+####
+0-Tonalism
+1-85
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-tonalism.htm
+3-1870
+4-1915
+5-James Whistler
+5-George Inness
+5-Albert Pinkham Ryder
+5-Edward Steichen
+6-artist-whistler-james-abbott-mcneill.htm
+6-https://en.wikipedia.org/wiki/George_Inness
+6-artist-ryder-albert-pinkham.htm
+6-http://en.wikipedia.org/wiki/Edward_Steichen
+####
+0-Ukiyo-e
+1-86
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-ukiyo-e-japanese-woodblock-prints.htm
+3-1672
+4-1880
+5-No Key Artists
+6-No Key HREFs
+####
+0-The Venetian School
+1-87
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-venetian-school.htm
+3-1470
+4-1580
+5-Titian
+5-Tintoretto
+5-Paolo Veronese
+6-artist-titian.htm
+6-http://en.wikipedia.org/wiki/Tintoretto
+6-https://en.wikipedia.org/wiki/Paolo_Veronese
+####
+0-Video Art
+1-88
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-video-art.htm
+3-1965
+4-2020
+5-Nam June Paik
+5-VALIE EXPORT
+5-Gary Hill
+5-Bruce Nauman
+5-John Baldessari
+5-Wolf Vostell
+5-Joan Jonas
+5-Martha Rosler
+5-Andy Warhol
+6-artist-paik-nam-june.htm
+6-artist-export-valie.htm
+6-https://en.wikipedia.org/wiki/Gary_Hill
+6-artist-nauman-bruce.htm
+6-artist-baldessari-john.htm
+6-https://en.wikipedia.org/wiki/Wolf_Vostell
+6-http://en.wikipedia.org/wiki/Joan_Jonas
+6-artist-rosler-martha.htm
+6-artist-warhol-andy.htm
+####
+0-The Vienna Secession
+1-89
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-vienna-secession.htm
+3-1897
+4-2020
+5-Gustav Klimt
+5-Joseph Maria Olbrich
+5-Koloman Moser
+5-Otto Wagner
+6-artist-klimt-gustav.htm
+6-http://en.wikipedia.org/wiki/Joseph_Maria_Olbrich
+6-http://en.wikipedia.org/wiki/Koloman_Moser
+6-http://en.wikipedia.org/wiki/Otto_Wagner
+####
+0-Viennese Actionism
+1-90
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-viennese-actionism.htm
+3-1960
+4-1971
+5-Gunter Brus
+5-Otto Muehl
+5-VALIE EXPORT
+5-Rudolf Schwarzkogler
+5-Hermann Nitsch
+5-Adolf Frohner
+6-http://en.wikipedia.org/wiki/Gunter_Brus
+6-http://en.wikipedia.org/wiki/Otto_muehl
+6-artist-export-valie.htm
+6-http://en.wikipedia.org/wiki/Rudolf_Schwarzkogler
+6-http://en.wikipedia.org/wiki/Hermann_Nitsch
+6-http://www.frohner-stiftung.at/press.html?L=1
+####
+0-Vorticism
+1-91
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-vorticism.htm
+3-1913
+4-1915
+5-Wyndham Lewis
+5-Jacob Epstein
+5-Henri Gaudier-Brzeska
+5-David Bomberg
+5-Ezra Pound
+6-http://en.wikipedia.org/wiki/Wyndham_Lewis
+6-artist-epstein-jacob.htm
+6-http://en.wikipedia.org/wiki/Henri_Gaudier-Brzeska
+6-http://en.wikipedia.org/wiki/David_Bomberg
+6-http://en.wikipedia.org/wiki/Ezra_pound
+####
+0-Washington Color School
+1-92
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-washington-color-school.htm
+3-1958
+4-1980
+5-Kenneth Noland
+5-Morris Louis
+5-Anne Truitt
+5-Gene Davis
+5-Sam Gilliam
+6-artist-noland-kenneth.htm
+6-artist-louis-morris.htm
+6-http://en.wikipedia.org/wiki/Anne_Truitt
+6-http://en.wikipedia.org/wiki/Gene_Davis_%28painter%29
+6-https://en.wikipedia.org/wiki/Sam_Gilliam
+####
+0-The Wiener Werkstatte
+1-93
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-wiener-werkstatte.htm
+3-1903
+4-1932
+5-No Key Artists
+6-No Key HREFs
+####
+0-Yoga
+1-94
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-yoga-western-style-japanese-painting.htm
+3-1876
+4-1955
+5-No Key Artists
+6-No Key HREFs
+####
+0-Young British Artists
+1-95
+2-C:/Research/artstory/Artstory-Movements-July-2018/movement-young-british-artists.htm
+3-1989
+4-2020
+5-Damien Hirst
+5-Tracey Emin
+5-Rachel Whiteread
+5-Michael Landy
+5-Sarah Lucas
+5-Anya Gallaccio
+5-Angus Fairhurst
+5-Jenny Saville
+5-Chris Ofili
+5-Gavin Turk
+5-Mat Collishaw
+6-artist-hirst-damien.htm
+6-artist-emin-tracey.htm
+6-artist-whiteread-rachel.htm
+6-https://en.wikipedia.org/wiki/Michael_Landy
+6-https://en.wikipedia.org/wiki/Sarah_Lucas
+6-https://en.wikipedia.org/wiki/Anya_Gallaccio
+6-https://en.wikipedia.org/wiki/Angus_Fairhurst
+6-artist-saville-jenny.htm
+6-https://en.wikipedia.org/wiki/Chris_Ofili
+6-https://en.wikipedia.org/wiki/Gavin_Turk
+6-https://en.wikipedia.org/wiki/Mat_Collishaw
+####
