@@ -1,6 +1,12 @@
 <h3>Introduction</h3>
 
-"Social Network Analysis (SNA) can be described as a *study of human relations by means of graph theory*." The main goal of SNA is to utilize graph theory -- a branch of mathematics -- to represent, detect and interpret patterns of social ties (relations) among a network of actors. The actors can be individuals, collections of individuals that share common attributes or characteristics, or members of a social group (e.g. family members or friends).
+"Social Network Analysis (SNA) can be described as the *study of human relations by means of graph theory*." Procedurally, in SNA we utilize graph theory -- a branch of mathematics -- to represent, detect, and interpret patterns of social ties or relations among a network of actors. The actors can be individuals, collections of individuals that share common attributes or characteristics (e.g. python programmers), or members of a social group (e.g. family members or friends). Basically, this means that SNA proceeds in two steps.  The first step is to produce a network graph of the relations where a *graph* is defined as a set of *nodes/vertices* and a set of *edges/lines* between pairs of nodes.  The second step is to utilize the graph and graph theory to better understand the patterns in the network (e.g. How connected is the network? Who are key actors? Are their major sub-groups among the actors? etc.).
+
+SNA has a long history  
+
+The primary object of SNA is a graph of the network of actors and relations. 
+
+
 
 
 
@@ -11,7 +17,7 @@ Basically, this means that SNA proceeds in to steps.  The first step is to produ
 
 <h3>Creating a Network Graph</3>
 
-While there are a variety of sources that have described and specified the relations for individual artists during (curing various eras) there are few that have combined them into an 
+While there are a variety of online sources providing data and information that have described and specified the relations for individual artists during (curing various eras) there are few that have combined them into an 
 
 So, the first goal of this project is to create a SNA graph of the *influence* relationships among the artists of *Modern Art* that can be used for SNA analysis and visualizati
 
