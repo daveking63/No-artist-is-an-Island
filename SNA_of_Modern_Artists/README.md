@@ -4,7 +4,7 @@ Succinctly stated, the primary goals of this project -- SNA of Modern Art -- are
 
 <h3>Building a Graph of Influence Relationships</h3>
 
-As noted in <a href= 'https://github.com/daveking63/No-artist-is-an-island/blob/master/README.md'><i>Introductory README to this repository</i></a>, the base data on which this graph is built comes from a series of *influence and connections* charts for individual arts found at The ArtStory." Unlike the linkages provided in the Getty Union List of Artist Names (ULAN) -- which is essentially a straightforward searchable database listing by artist name -- the information found in The ArtStory is more narrative in form and buried in individual HTML pages devoted.  
+As noted in the <a href= 'https://github.com/daveking63/No-artist-is-an-island/blob/master/README.md'><i>Introductory README to this repository</i></a>, the base data on which this graph is built comes from a series of *influence and connections* charts for individual artists found at The ArtStory website." Unlike the linkages provided in the Getty Union List of Artist Names (ULAN) -- which is essentially a straightforward, searchable database listing by artist name -- the information found in The ArtStory is more narrative in form and buried in the various tags and content underling the individual HTML pages devoted to each artist.  
 
 
 *Data Scraping The ArtStory Pages for Movements and Artists*
