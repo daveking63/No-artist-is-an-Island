@@ -1,6 +1,10 @@
 <h3>Introduction</h3>
 
-Succinctly stated, the primary goals of this project -- SNA of Modern Art -- are two-fold.  The first goal of this project is to create a social network graph of the *influence* relationships among the artists of *Modern Art*. The second is to use this graph along with graph theory to visualize, detect, and analyze the patterns of social relations in the network.  The fundamentals of this sort of SNA are detailed in a variety of sources dealing with SNA, as well as others dealing with more general network analysis and graph theory (including a short entry in one of my other repositories -- <a href='http://
+Succinctly stated, the primary goals of this project -- SNA of Modern Art -- are two-fold.  The first goal of this project is to create a social network graph of the *influence* relationships among the artists of *Modern Art*. The second is to use this graph along with graph theory to visualize, detect, and analyze the patterns of relations in the network.  The fundamentals of this sort of SNA are detailed in a variety of sources dealing with SNA, as well as others dealing with more general network analysis and graph theory (including a short entry in one of my other repositories -- <a href= 'https://github.com/daveking63/Rudiments-of-Social-Network-Analysis/blob/master/README.md'><i>Rudiments of Social Network Analysis</i></a>.
+
+<h3>Building a Graph of Influence Relationships</3>
+
+As noted in Introductory README to this repository the base data on which this graph is built comes from a series of *influence and connections* 
 
 While there are a variety of online sources providing data and information specifying and describing the relations of individual artists (working during various eras) there are few that have combined these "egocentric networks" into larger social networks in order to "detect and analyze the overall patterns in these networks."
 
