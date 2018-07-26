@@ -1,0 +1,222 @@
+####
+1- American
+Abstract Expressionism
+Art Deco
+Art Nouveau
+Ashcan School
+Bay Area Figurative Movement
+Black Mountain College
+Body Art
+Color Field Painting
+Conceptual Art
+Contemporary Realism
+Dada
+Dada and Surrealist Photography
+Digital Art
+Earth Art
+Feminist Art
+Fluxus
+Happenings
+Hard-Edge Painting
+Hudson River School
+Impressionism
+Installation Art
+International Style
+Japonism
+Kinetic Art
+Luminism
+Magic Realism
+Minimalism
+Naturalism
+Neo-Dada
+Neo-Expressionism
+Op Art
+Orientalism
+Performance Art
+Photorealism
+Pop Art
+Post-Impressionism
+Post-Minimalism
+Post-Painterly Abstraction
+Primitivism in Art
+Realism
+Romanticism
+Social Realism
+Straight Photography
+Surrealism
+Surrealist Film
+Synchromism
+The Pictures Generation
+Tonalism
+Video Art
+Washington Color School
+####
+1- Austrian
+Art Deco
+Art Nouveau
+Dada
+Dada and Surrealist Photography
+Expressionism
+Northern Renaissance
+Performance Art
+Primitivism in Art
+Surrealism
+Video Art
+Viennese Actionism
+Vienna Secession
+Wiener Werkstatte
+####
+1- Belgian
+Art Deco
+Art Nouveau
+CoBrA
+Dada
+Dada and Surrealist Photography
+Northern Renaissance
+Surrealism
+####
+1- British
+Aesthetic
+Art Deco
+Art Nouveau
+Arts and Crafts
+Bloomsbury Group Artists
+Body Art
+British Pop Art
+Conceptual Art
+Dada
+Dada and Surrealist Photography
+Earth Art
+Feminist Art
+Installation Art
+Japonism
+Naturalism
+Op Art
+Orientalism
+Performance Art
+Pop Art
+Post-Impressionism
+Pre-Raphaelites
+Primitivism
+Romanticism
+Surrealism
+Symbolism
+Video Art
+Vorticism
+Young British Artists
+####
+1- Dutch
+Art Deco
+CoBrA Group
+De Stijl
+Installation Art
+Naturalism
+Neo-Plasticism
+Northern Renaissance
+Surrealism
+####
+1- French
+Art Deco
+Art Nouveau
+Barbizon School
+Cubism
+Dada
+Dada and Surrealist Photography
+Expressionism
+Fauvism
+Feminist Art
+Impressionism
+Installation Art
+International Style
+Japonism
+Kinetic Art
+Les Nabis
+Naturalism
+Neo-Impressionism
+Nouveau Realisme
+Op Art
+Orientalism
+Orphism
+Performance Art
+Post-Impressionism
+Primitivism in Art
+Realism
+Romanticism
+Salon Cubism
+Surrealism
+Surrealist Sculpture
+Symbolism
+Synchromism
+Video Art
+####
+1- German
+Art Deco
+Art Nouveau
+Bauhaus
+Body Art
+Dada
+Dada and Surrealist Photography
+Der Blaue Reiter
+Die Brücke
+Expressionism
+Feminist Art
+Installation Art
+International Style
+Magic Realism
+Naturalism
+Neo-Expressionism
+New Objectivity
+Northern Renaissance
+Performance Art
+Primitivism in Art
+Romanticism
+Straight Photography
+Surrealism
+Video Art
+####
+1- Japanese
+Fluxus
+Gutai Group
+Japonism
+Nihonga
+Performance Art
+Sosaku-hanga Creative Prints
+Superflat
+Ukiyo-e Japanese Woodblock Prints
+Yoga - Western-Style Japanese Painting
+####
+1- Italian
+Art Deco
+Arte Povera
+Early Renaissance
+Futurism
+High Renaissance
+Installation Art
+Naturalism
+Surrealism
+Venetian School
+Video Art
+####
+1- Mexican
+Magic Realism
+Mexican Muralism
+Surrealism
+####
+1- Russian
+Body Art
+Constructivism
+Naturalism
+Peredvizhniki
+Rayonism
+Romanticism
+Russian Futurism
+Social Realism
+Suprematism
+####
+1- Spanish
+Installation Art
+Naturalism
+Primitivism
+Romanticism
+Video Art
+####
