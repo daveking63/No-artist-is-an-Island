@@ -26,6 +26,6 @@ As a bit of backdrop, The Art Story is "an educational non-profit organization f
 
 ![alt text](example_of_influence_and_connections-resized-2.png "Influence and Connections Chart")
 
-<H3>Analysis and Visualization of the Social Network of <i>Modern</i> Artists</H3>
+<H3>Analysis and Visualization of the Social Network of <i>Modern</i> Artists and Movements</H3>
 
 There are actually two phases to the project.  The first focuses on the relationships among the artists and the second on relationships among the movements. Details of both phases be provided in a folder entitled <a href= 'https://github.com/daveking63/No-artist-is-an-island/blob/master/SNA_of_Modern_Artists/'><i>SNA of Modern Artists</i></a> which is in this repository. The end product of each phase is not only an interactive social network graph (similar to the ones described above) but also a general analysis of the key structural features of the graph.
